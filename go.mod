@@ -29,3 +29,5 @@ require (
 	sigs.k8s.io/gateway-api v0.2.0
 	sigs.k8s.io/kustomize/kyaml v0.1.1
 )
+
+replace github.com/projectcontour/contour => github.com/touchuyht/contour v1.14.3
